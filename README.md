@@ -215,6 +215,7 @@ To keep this list useful and trustworthy:
 
 ### Finance & Accounting
 
+- <img src="https://www.google.com/s2/favicons?domain=agentaos.ai&sz=16" width="16" height="16" /> [AgentaOS](https://agentaos.ai/) — Merchant of record that lets a solo founder sell SaaS, digital products or services worldwide with no company abroad, handling VAT and sales tax and paying out in 85+ countries (4.5% + €0.50 per sale, 2026).
 - <img src="https://www.google.com/s2/favicons?domain=aipay.alipay.com&sz=16" width="16" height="16" /> [Alipay AI Pay](https://aipay.alipay.com/) — AI-native payment solution by Alipay that enables AI agents to handle transactions seamlessly. 100M+ users, ideal for agentic commerce.
 - <img src="https://www.google.com/s2/favicons?domain=b.alipay.com&sz=16" width="16" height="16" /> [支付宝](https://b.alipay.com/) — Alibaba's payment platform. 0.6% fee, required for serving Chinese customers.
 - <img src="https://www.google.com/s2/favicons?domain=fakturcho.com&sz=16" width="16" height="16" /> [Fakturcho](https://www.fakturcho.com/en) — EU invoicing for sole traders with no accountant on hand: VAT rates by country, VIES-checked reverse charge, and the national e-invoice XML (XRechnung, FatturaPA, KSeF, CIUS-RO) generated per invoice. €0.10 per issued document, no subscription required (pricing as of 2026).
